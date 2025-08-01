@@ -1,0 +1,10 @@
+.
+├── hypr
+├── install.sh
+├── packages.txt
+├── pacman-packages.txt
+├── project-structure.txt
+├── readme.md
+└── waybar
+
+3 directories, 5 files
