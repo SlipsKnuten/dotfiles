@@ -12,8 +12,9 @@
     },
     
     "clock": {
-        "format": "{:%H:%M}",
-        "format-alt": "{:%A, %B %d, %Y}"
+        "format": "{:%H:%M %d/%m-%y}",
+        "format-alt": "{:%A %d %B %Y}",
+        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
     },
     
     "battery": {
