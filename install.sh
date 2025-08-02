@@ -5,4 +5,5 @@ if ! command -v yay &> /dev/null; then
     cd yay && makepkg -si --noconfirm && cd .. && rm -rf yay
 fi
 yay -S --needed --noconfirm - < packages.txt
-stow hypr waybar nvim
+stow hypr waybar nvim zsh:w
+

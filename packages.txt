@@ -2,3 +2,5 @@ wofi
 zen-browser-bin
 waybar
 ttf-jetbrains-mono-nerd
+tor-browser
+plex-media-server

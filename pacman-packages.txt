@@ -3,3 +3,4 @@ base-devel
 neovim
 less
 wl-clipboard
+zsh
