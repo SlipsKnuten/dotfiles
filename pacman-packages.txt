@@ -5,3 +5,4 @@ less
 wl-clipboard
 zsh
 tmux
+brightnessctl
